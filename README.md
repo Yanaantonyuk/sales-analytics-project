@@ -36,4 +36,5 @@ notebooks/Portfolio_Project_1.ipynb — SQL + Python analysis
 
 
 👩‍💻 Author
+
 Yana Antoniuk — April 2026
