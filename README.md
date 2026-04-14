@@ -7,6 +7,7 @@ Period: November 2020 – January 2021 (Black Friday → New Year)
 Currency: GBP (£)
 
 
+
 🛠️ Tech Stack
 
 SQL (BigQuery) — data extraction and joins
@@ -25,6 +26,7 @@ Dashboard 2 — Customer Behaviour Dashboard
 [View on Tableau Public →](https://public.tableau.com/app/profile/yana.antoniuk7747/viz/E-commerceCustomerInsightsCustomerBehaviour/E-commerceCustomerInsights)
 
 
+
 📁 Files
 
 
@@ -33,6 +35,7 @@ notebooks/Portfolio_Project_1.ipynb — SQL + Python analysis
 
 
 [full project documentation →](https://docs.google.com/document/d/1HlUK8ZPUKXSHjpGHTltsjIPFf-_ezmpG/edit?usp=sharing&ouid=102542415034471826919&rtpof=true&sd=true) 
+
 
 
 👩‍💻 Author
